@@ -2,6 +2,7 @@
 Thermal stochastic evolution of a particle in a fluctuating correlated scalar field
 
 Written by Davide Venturelli & Benjamin Walter
+
 This version: May 2021
 
 The program simulates a d-dimensional system (with d up to 3) made of a particle and a field interacting with each other, and subject to noise. 
